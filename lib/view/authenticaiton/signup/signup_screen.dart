@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:listapp/data/network/firebaseauth_servies.dart';
 import 'package:provider/provider.dart';
-
 import '../../../res/app_string.dart';
 import '../../../res/color.dart';
 import '../../../res/component/common_button.dart';
